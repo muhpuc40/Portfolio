@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Minhaj Uddin Hassan"
+subtitle                 : "CSE Undergraduate | Web Developer | IoT Expert"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Minhaj Uddin Hassan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "CSE Undergraduate | Web Developer | IoT Expert"
+  location         : "Chattogram, Bangladesh"
+  employer         : "Premier University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mdhassan49.muh@gmail.com" 
 
   # Academic websites
   academia         : # URL
