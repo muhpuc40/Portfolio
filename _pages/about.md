@@ -30,21 +30,6 @@ Hello! I'm **Minhaj Uddin Hassan**, a passionate and dedicated Computer Science 
 - **Tools**: Git & GitHub, VS Code, Arduino IDE
 - **IoT Platforms**: ESP32, RFID, Sensors, MQTT, SD card logging, WiFi/BLE communication
 
-## 🌐 Online Presence
-
-- **GitHub**: [github.com/muhpuc40](https://github.com/muhpuc40)
-- **LinkedIn**: [Minhaj Uddin Hassan](https://bd.linkedin.com/in/minhaj-uddin-hassan-78245122a)
-- **Kaggle**: [kaggle.com/minhajuddinhassan](https://www.kaggle.com/minhajuddinhassan)
-
-## 📫 Contact Me
-
-Feel free to connect with me or reach out:
-
-- **Email**: mdhassan49.muh@gmail.com  
-- **Twitter**: [@minhajUhassan25](https://twitter.com/minhajUhassan25)  
-- **Instagram**: [@minhaj_hassan_](https://www.instagram.com/minhaj_hassan_/)  
-- **Facebook**: [minhaj.hassan25](https://www.facebook.com/minhaj.hassan25)
-
 ---
 
 > “Stay curious, stay driven.”  
