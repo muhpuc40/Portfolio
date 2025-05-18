@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Minhaj Uddin Hassan"
+title: "Hey ! Welcome to my Portfolio"
 author_profile: true
 redirect_from: 
   - /about/

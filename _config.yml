@@ -24,7 +24,7 @@ repository               : "https://muhpuc40.github.io/Portfolio/"
 author:
   # Biographic information
   avatar           : "6.jpg"
-  avatar_width     : 200 # width of the avatar in pixels
+  avatar_width     : 300 # width of the avatar in pixels
   name             : "Minhaj Uddin Hassan"
   pronouns         : # example: "she/her"  
   bio              : "CSE Undergraduate | Web Developer | IoT Expert"
@@ -282,7 +282,7 @@ defaults:
       path: ""
       type: Project
     values:
-      layout: talk
+      layout: Project
       author_profile: true
       share: true
 
