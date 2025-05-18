@@ -19,6 +19,9 @@ Hello! I'm **Minhaj Uddin Hassan**, a passionate and dedicated Computer Science 
 
 ## 🎓 Education
 
+- **SSC and HSC**  
+  *Baitush Sharaf Ideal Kamil Madrasah, Chittagong*
+
 - **Bachelor of Science in Computer Science and Engineering**  
   *Premier University, Chittagong*
 
