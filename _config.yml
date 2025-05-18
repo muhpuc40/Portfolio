@@ -24,7 +24,7 @@ repository               : "https://muhpuc40.github.io/Portfolio/"
 author:
   # Biographic information
   avatar           : "6.jpg"
-  avatar_width     : 300 # width of the avatar in pixels
+  
   name             : "Minhaj Uddin Hassan"
   pronouns         : # example: "she/her"  
   bio              : "CSE Undergraduate | Web Developer | IoT Expert"
@@ -45,7 +45,7 @@ author:
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : "muhpuc40"
+  bitbucket        : "muhpuc40
   codepen          : # Username
   dribbble         : # Username
   github           : "muhpuc40"
@@ -280,9 +280,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Project
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
 
