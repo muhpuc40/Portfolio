@@ -43,9 +43,16 @@
 ;
 
 
-.page-subtitle {
-  font-size: 1.2em;
-  color: #555;
+.pub-title {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px; /* Adjust spacing below title */
+}
+
+.pub-subtitle {
+  text-align: center;
+  font-size: 1.1em;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 10px; /* Reduce space under subtitle */
+  line-height: 1.2; /* Tightens the line spacing */
 }
